@@ -1,0 +1,12 @@
+.father {
+    width: 500px;
+    height: 500px;
+    background-color: #595656;
+    position:relative ;
+}
+.soon {
+    width: 50px;
+    height: 50px;
+    background-color: #01c901;
+    position: absolute;
+}
